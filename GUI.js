@@ -6,8 +6,8 @@ let canvas;
 // from here 宣告怎麼調整
 let textureBase;
 let control = {
-	xBrickAmount: 50.0,
-	yBrickAmount: 50.0,
+	xBrickAmount: 100.0,
+	yBrickAmount: 100.0,
 }
 // to here
 
