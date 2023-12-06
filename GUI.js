@@ -7,8 +7,8 @@ let textureBase;
 // Part 2 - Step 2.1
 // from here
 let control = {
-	xBrickAmount: 50.0,
-	yBrickAmount: 50.0,
+	xBrickAmount: 100.0,
+	yBrickAmount: 100.0,
 }
 // to here
 
